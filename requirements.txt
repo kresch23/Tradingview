@@ -4,4 +4,3 @@ urllib3
 datetime
 flask
 gunicorn
-dateutil
