@@ -1,9 +1,5 @@
-os
 replit
 requests
-platform
 urllib3
 datetime
-json
 flask
-dateutil
